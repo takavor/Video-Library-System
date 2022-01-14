@@ -1,4 +1,4 @@
-# Video-Library-System-Design
+# Video-Library-System
 Implementation of a video library system with software development design patterns.
 
 ## Design Patterns
