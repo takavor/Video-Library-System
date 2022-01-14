@@ -13,7 +13,8 @@ State transitions of an arbitrary watchlist with respect to state modyfing actio
 ![image](https://user-images.githubusercontent.com/47959146/149541578-e12e1625-a691-4c42-bb63-0a1b2a56ab7f.png)
 
 * **Strategy**
-To implement filters for media selection.
+
+To implement filters for media selection. Filters include language and publishing studio, and may be combined conjunctively or disjunctively.
 
 * **Observer**
 
