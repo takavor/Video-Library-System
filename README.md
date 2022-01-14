@@ -3,7 +3,7 @@ Implementation of a video library system with software development design patter
 
 ## Design Patterns
 
-Here's an overview of the design patterns used to implement the system.
+Here's a brief overview of the design patterns used to implement the system.
 
 * **Command**
 
@@ -24,7 +24,6 @@ To allow the client to create episodes by calling methods in TVShow with polymor
 
 Sequence diagram for creating a new Episode with the prototype:
 ![image](https://user-images.githubusercontent.com/47959146/149542235-9f4b3610-e6f4-4fc4-ac66-025100305162.png)
-
 
 
 
